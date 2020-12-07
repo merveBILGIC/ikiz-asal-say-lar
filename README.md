@@ -1,0 +1,1 @@
+# ikiz-asal-say-lar
