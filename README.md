@@ -1,1 +1,1 @@
-# ikiz-asal-say-lar
+# ikiz-asal-sayilar
